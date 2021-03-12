@@ -1,8 +1,3 @@
-emails.py
-
-
-
-
 #!/usr/bin/env python3
 
 import email.message
