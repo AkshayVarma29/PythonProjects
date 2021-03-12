@@ -1,6 +1,4 @@
 # PythonProjects
 Repository of Python Projects
 
-##Image_Design 
-
--- Perform Operations on Images in a directory.
+## 1. Image_Design -- Perform Operations on Images in a directory.
